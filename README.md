@@ -8,7 +8,6 @@ My implementation of Matrix Capsules with EM.
 I'm still fuzzy about the coordinates
 
 Kudos for our Godfather #Geoffrey_Hinton
-https://lnkd.in/g_i9jp8
 
 This video helped in the implementation
 
